@@ -1,0 +1,16 @@
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.grid {
+  display: flex;
+  align-items: stretch;
+  gap: 2rem;
+  flex-wrap: wrap;
+}

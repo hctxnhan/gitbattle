@@ -1,0 +1,24 @@
+.card {
+  list-style-type: none;
+  padding: 2rem;
+  width: 25rem;
+}
+
+.card-list {
+  list-style-type: none;
+  margin: 2rem 0;
+  font-size: 2rem;
+
+  li {
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+  }
+  svg {
+    margin-right: 1rem;
+  }
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}

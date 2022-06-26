@@ -1,0 +1,13 @@
+.avatar {
+  width: 15rem;
+  height: 15rem;
+  border-radius: 3px;
+  margin: 1rem auto;
+  display: block;
+
+  &--small {
+    width: 5.5rem;
+    height: 5.5rem;
+    border-radius: 50%;
+  }
+}

@@ -1,0 +1,32 @@
+.player {
+  flex: 1;
+  margin: 0 2rem;
+  padding: 1rem;
+
+  &__label {
+    font-size: 2rem;
+    margin: 1rem 0;
+    font-weight: 300;
+  }
+
+  &__input input {
+    padding: 0.8rem;
+    font-size: 1.6rem;
+    flex: 2;
+    border-radius: 3px;
+    border: none;
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15);
+  }
+
+  &__info {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    font-size: 2rem;
+    padding: 1rem;
+
+    .link {
+      margin-left: 1rem;
+    }
+  }
+}

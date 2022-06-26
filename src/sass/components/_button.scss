@@ -1,0 +1,52 @@
+.btn {
+  padding: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.25em;
+  border-radius: 3px;
+  border: none;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: none;
+  max-width: 200px;
+  text-align: center;
+  font-weight: 300;
+
+  &:disabled {
+    cursor: initial;
+  }
+
+  &--dark {
+    color: #e6e6e6;
+    background-color: #24282a;
+
+    &:disabled {
+      color: #e6e6e63b;
+      background-color: #24282a44;
+    }
+  }
+
+  &--light {
+    background-color: #dadada;
+    color: inherit;
+
+    &:disabled {
+      background-color: #dadada46;
+      color: grey;
+    }
+  }
+
+  &--clear {
+    border: none;
+    background-color: transparent;
+    padding: 0 1rem;
+  }
+
+  &--space {
+    margin: 2rem auto;
+    display: block;
+    padding: 1.5rem 6rem;
+  }
+}

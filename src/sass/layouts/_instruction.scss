@@ -1,0 +1,17 @@
+.instructions {
+  margin: 10rem 0;
+
+  &__list {
+    margin-top: 2rem;
+  }
+
+  &__item {
+    flex: 1;
+    min-width: 20rem;
+
+    svg {
+      padding: 4rem;
+      box-sizing: content-box;
+    }
+  }
+}
