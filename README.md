@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Github Battle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://user-images.githubusercontent.com/95177300/198863345-65f2db22-0d10-48a6-bf49-e1285103c8e0.png)
+
+![image](https://user-images.githubusercontent.com/95177300/198863347-62219db3-7357-49cd-9928-11b9e6d633f0.png)
+
+![screencapture-musical-palmier-8d8f34-netlify-app-battle-2022-10-30-11_57_46](https://user-images.githubusercontent.com/95177300/198863364-9b7a96ff-8d5c-41e2-8ad8-717ca7122abf.png)
+
+![screencapture-musical-palmier-8d8f34-netlify-app-battle-results-2022-10-30-11_58_15](https://user-images.githubusercontent.com/95177300/198863365-d539c771-8166-4cc6-920f-57d308703779.png)
+
 
 ## Available Scripts
 
